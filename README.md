@@ -39,7 +39,7 @@
 ### Description of what each file shows:
 ```
 man_3_shell ------------------------ custom manpage for our simple shell
-main.c ----------------------------- holds entrance into program
+shell.c ----------------------------- holds entrance into program
 shell.h ---------------------------- holds prototypes of functions spread across all files
 ```
 Helper files
